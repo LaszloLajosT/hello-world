@@ -1,5 +1,11 @@
 # hello-world
-Just another repository
+Hi there,
+
+I am Android Developer student who keen to learn and improve his knowledge. This "tutorial" is about practicing and understanding how GitHub is working.  I would apprepiate your support/ideas to learn or feedback about my little projects. Please, look at my repositories. If you have any idea how to improve my projects or description, don't hesitate.
+
+Thank you your time!
+
+So, let's see what is GitHub and how I can start my journey...
 
 ## What is GitHub?
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
